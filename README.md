@@ -8,4 +8,4 @@ A high school science class assignment asked students to download the last 15 da
 
 However, adding the additional information into the pivot table isn't as simple. Knowing the date and magnitude allows one to filter the raw data consisting of 150+ data points per day and 4000+ data points total to copy and paste the desired data into a summary table.  There's probably other ways to get the desired data using Excel or Excel with VBA.
 
-But using pandas and folium the data can be summarized and plotted very quickly.
+But using pandas and folium the data can be summarized and plotted very quickly. 
